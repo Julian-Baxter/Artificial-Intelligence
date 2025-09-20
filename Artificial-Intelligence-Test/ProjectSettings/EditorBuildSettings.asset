@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes_Assignment/Level 1.unity
+    guid: 26dfaab476091ba4b8089ef9cbe1c09a
+  - enabled: 1
+    path: Assets/Scenes_Assignment/Level 2.unity
+    guid: 3f4f1c34063eb324c9b623ba263ec17b
+  - enabled: 1
+    path: Assets/Scenes_Assignment/Level 3.unity
+    guid: 346ebca64c477c445bb0a00070509d76
+  - enabled: 1
+    path: Assets/Scenes_Assignment/~EndOfGame.unity
+    guid: c65f04d88e8847d4dbf6e44296752a8d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Start.unity
+    guid: 57df1e417250bc247976c2c0dc088efe
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone1.unity
+    guid: a94cb8f134bf81349ad016c79b629e3d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone2.unity
+    guid: 5436c67e9267f17458b31fcdc20cd20a
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone3.unity
+    guid: 4b4b0e246fc7dbb4295a38fd03241362
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone4.unity
+    guid: 5b0c2d9ddd151ba489db19a4fb634327
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone5.unity
+    guid: 960b12f881940d84983273421bebc695
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+    guid: 705f1f73151a73046842d4e4ec8f514d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Loading.unity
+    guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/Newer Scene.unity
+    guid: b0517ef8b88d0744488e99a847189d1e
+  m_configObjects: {}
